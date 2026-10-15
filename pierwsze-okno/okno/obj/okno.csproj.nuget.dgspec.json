@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno\\okno.csproj": {}
+    "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno\\okno.csproj": {
+    "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno\\okno.csproj",
+        "projectUniqueName": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno.csproj",
         "projectName": "okno",
-        "projectPath": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno\\okno.csproj",
+        "projectPath": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno.csproj",
         "packagesPath": "C:\\Users\\duczynski.gabriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno\\obj\\",
+        "outputPath": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

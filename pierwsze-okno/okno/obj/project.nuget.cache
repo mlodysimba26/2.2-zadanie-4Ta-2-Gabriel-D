@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bj756/2jtDQ=",
+  "dgSpecHash": "gXpl32PSG8g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno\\okno.csproj",
+  "projectFilePath": "C:\\Users\\duczynski.gabriel\\Documents\\2.2-zadanie-4Ta-2-Gabriel-D\\pierwsze-okno\\okno\\okno.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duczynski.gabriel\\.nuget\\packages\\avalonia\\12.1.3\\avalonia.12.1.3.nupkg.sha512",
     "C:\\Users\\duczynski.gabriel\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.27548.20260419\\avalonia.angle.windows.natives.2.1.27548.20260419.nupkg.sha512",
